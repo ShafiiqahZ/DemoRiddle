@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoRiddle</string>
+    <string name="textView1">Question 1 \nThis word has the same \npronounciation even after \nremoving 4 letters from it.</string>
+    <string name="button1">REVEAL</string>
+    <string name="textView2">Question 2 \nHow do you make 1 \ndissapear?</string>
+    <string name="button2">REVEAL</string>
+</resources>
